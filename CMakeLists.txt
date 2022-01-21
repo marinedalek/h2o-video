@@ -3,6 +3,7 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
+# find_package(raylib REQUIRED)
 project ("h2o-video")
 
 # Include sub-projects.

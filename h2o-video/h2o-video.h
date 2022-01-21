@@ -1,8 +1,6 @@
-﻿// h2o-video.h : Include file for standard system include files,
-// or project specific include files.
+﻿#ifndef H2O_VIDEO_H_MARINEDALEK
+#define H2O_VIDEO_H_MARINEDALEK
+#include <raylib.h> 
+#include <iostream> 
 
-#pragma once
-
-#include <iostream>
-
-// TODO: Reference additional headers your program requires here.
+#endif
